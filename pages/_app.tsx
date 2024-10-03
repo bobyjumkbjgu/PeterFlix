@@ -8,8 +8,8 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Nextflix</title>
-        <meta name='description' content='Netflix clone, made using Next.js' />
+        <title>PeteFlix</title>
+        <meta name='description' content='Made by PeterGriffin Who Made Netflix Slides.js' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <ModalProvider>
